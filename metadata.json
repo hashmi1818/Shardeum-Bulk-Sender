@@ -1,0 +1,5 @@
+{
+  "name": "Shardeum Bulk Sender",
+  "description": "A DApp to send ERC-20 tokens and native SHM tokens to multiple wallet addresses in a single batch on the Shardeum UnstableNet network.",
+  "requestFramePermissions": []
+}

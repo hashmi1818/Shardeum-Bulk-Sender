@@ -1,0 +1,20 @@
+# Demo Data for Shardeum Bulk Sender
+# Format: address, amount
+# Copy and paste this data into the recipients field to test the application
+
+# Sample addresses (these are example addresses - replace with real ones for actual use)
+0x742d35Cc6634C0532925a3b8D4C9db96C4b4d8b6, 10.5
+0x8ba1f109551bD432803012645Hac136c772c37e0, 25.0
+0x1234567890123456789012345678901234567890, 15.75
+0xabcdefabcdefabcdefabcdefabcdefabcdefabcd, 5.25
+0xfedcba9876543210fedcba9876543210fedcba98, 30.0
+
+# Instructions:
+# 1. Connect your wallet to Shardeum UnstableNet
+# 2. Select your send mode (SHM or ERC-20)
+# 3. Paste this data into the recipients field
+# 4. Click "Parse Input" to validate
+# 5. Review the transaction summary
+# 6. Click "Send to X addresses" to begin
+
+# Note: These are example addresses. Replace them with real addresses for actual transactions.
